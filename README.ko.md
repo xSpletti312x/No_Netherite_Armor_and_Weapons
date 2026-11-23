@@ -1,6 +1,6 @@
 # No Netherite Armor and Weapons
 
-[English](README.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Polski](README.pl.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | [Español](README.es.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Deutsch](README.de.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | [한국어](README.ko.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [Polski](README.pl.md)
 
 이 저장소는 DiamondSMP의 네더라이트 제작 제한을 버전별 데이터팩, 여러 로더용 모드, Bukkit 호환 서버 플러그인으로 제공합니다.
 

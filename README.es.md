@@ -1,6 +1,6 @@
 # No Netherite Armor and Weapons
 
-[English](README.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Polski](README.pl.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | [Español](README.es.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Deutsch](README.de.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | [한국어](README.ko.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [Polski](README.pl.md)
 
 Este repositorio ofrece la restricción de fabricación de netherita de DiamondSMP mediante datapacks específicos para cada versión, mods para distintos loaders y un plugin de servidor compatible con Bukkit.
 
