@@ -1,0 +1,6 @@
+name: NoNetheriteArmorAndWeapons
+version: 1.0.0
+main: de.diamondsmp.recipes.DiamondSMPRecipesPlugin
+api-version: '1.13'
+folia-supported: true
+description: Disables netherite armor and weapon smithing recipes.

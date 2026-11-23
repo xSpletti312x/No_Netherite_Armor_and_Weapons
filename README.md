@@ -1,33 +1,33 @@
-# Minecraft Datapack – No Netherite Armor and Weapons
+# No Netherite Armor and Weapons
 
-This datapack modifies/overrides the smithing table recipes (`netherite_axe_smithing.json`, `netherite_boots_smithing.json`, `netherite_chestplate_smithing.json`, `netherite_helmet_smithing.json`, `netherite_leggings_smithing.json`, and `netherite_sword_smithing.json`) for Netherite gear.
+This repository provides the DiamondSMP netherite crafting restriction as both version-specific datapacks and a Bukkit-compatible server plugin.
 
-## Compatibility
-* **Minecraft Java Edition:** Down to **1.16** (compatible with versions from 1.16 onward, depending on the `data/minecraft/recipe/` folder naming and recipe format).
-* *Note:* Minecraft versions before 1.21 used the plural folder `recipes/` instead of `recipe/`, and 1.20+ introduced smithing templates—ensure the folder path and JSON structure match your target version if needed.
+## What is disabled
 
-## Installation
-1. Download the datapack `.zip` archive (`no_netherite_armor_and_weapons 26.3.zip`).
-2. Open your Minecraft world folder (`saves/<WorldName>/datapacks/`).
-3. Place the `.zip` file inside (do not extract it).
-4. Join the world or run `/reload` in-game.
+The datapacks and plugin disable smithing recipes for netherite armor, axes, swords, and the netherite spear on versions that have it. Netherite pickaxes, shovels, and hoes remain craftable.
 
-## Structure
-```text
-├── pack.mcmeta
-└── data/
-    └── minecraft/
-        └── recipe/
-            ├── netherite_axe_smithing.json
-            ├── netherite_boots_smithing.json
-            ├── netherite_chestplate_smithing.json
-            ├── netherite_helmet_smithing.json
-            ├── netherite_leggings_smithing.json
-            └── netherite_sword_smithing.json
+## Datapacks
+
+Version-specific datapacks are in [`Datapacks/DiamondSMP`](Datapacks/DiamondSMP). Choose the folder matching your Minecraft version and place that folder (or a ZIP of its contents) in the world's `datapacks` directory. Run `/reload` or restart the server.
+
+The available pack folders cover Minecraft 1.16 through 26.3. Each folder has its own `pack.mcmeta` and the correct recipe directory layout for that version range.
+
+## Server plugin
+
+The plugin source is in [`Plugin`](Plugin). It targets the Bukkit API and declares Folia support, so one build is intended for Bukkit, Spigot, Paper, and Folia servers. It is compiled against Spigot API 1.16.5 with Java 8 bytecode; compatibility across every server release from 1.16 through 26.3 has not yet been verified on a full version matrix.
+
+### Build
+
+Install a JDK and Maven, then run from the `Plugin` directory:
+
+```powershell
+mvn package
 ```
 
-## Note
-The jar file is a Plugin for the Mod Loaders Paper, Bukkit, Spigot and Folia for the Versions 16-26.3. The Mod versions are only available on Modrinth.
+The plugin JAR is created at `Plugin/target/No_Netherite_Armor_And_Weapons-1.0.0.jar`. Copy it into the server's `plugins` directory and restart the server.
+
+Use either the datapack or plugin for this rule; installing both is unnecessary.
 
 ## License
+
 This project is licensed under the [MIT License](LICENSE).
