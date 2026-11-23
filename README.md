@@ -1,5 +1,7 @@
 # No Netherite Armor and Weapons
 
+[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [日本語](README.ja.md) | [简体中文](README.zh-CN.md)
+
 This repository provides the DiamondSMP netherite crafting restriction as version-specific datapacks, loader mods, and a Bukkit-compatible server plugin.
 
 ## What is disabled
