@@ -14,7 +14,7 @@ The available pack folders cover Minecraft 1.16 through 26.3. Each folder has it
 
 ## Mods
 
-Version-specific mod JARs are in [`Mods`](Mods). Each `Mod-<version>` folder contains one JAR named `no_netherite_armor_and_weapons-Mod-<version>.jar`. Use the folder whose version range matches your Minecraft version and install the JAR in the appropriate mod loader's `mods` directory. The JARs are repackaged datapacks; check the metadata inside each JAR for its supported loader and game versions.
+Version-specific mod JARs are in [`Mods`](Mods). Each `Mod-<version>` folder contains one JAR named `no_netherite_armor_and_weapons-Mod-<version>.jar` and the JAR's extracted contents. Use the folder whose version range matches your Minecraft version and install the JAR in the appropriate mod loader's `mods` directory. The JARs are repackaged datapacks; check the metadata inside each JAR for its supported loader and game versions.
 
 ## Server plugin
 
