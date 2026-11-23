@@ -8,7 +8,7 @@ The datapacks and plugin disable smithing recipes for netherite armor, axes, swo
 
 ## Datapacks
 
-Version-specific datapacks are in [`Datapacks/DiamondSMP`](Datapacks/DiamondSMP). Choose the folder matching your Minecraft version and place that folder (or a ZIP of its contents) in the world's `datapacks` directory. Run `/reload` or restart the server.
+Version-specific datapacks are in [`Datapacks`](Datapacks), with one folder per Minecraft version. Choose the folder matching your Minecraft version and place that folder (or its ZIP file) in the world's `datapacks` directory. Run `/reload` or restart the server.
 
 The available pack folders cover Minecraft 1.16 through 26.3. Each folder has its own `pack.mcmeta` and the correct recipe directory layout for that version range.
 
