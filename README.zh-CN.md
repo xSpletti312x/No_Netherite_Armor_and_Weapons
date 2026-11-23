@@ -1,6 +1,6 @@
 # No Netherite Armor and Weapons
 
-[English](README.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md) | [日本語](README.ja.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Polski](README.pl.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | [简体中文](README.zh-CN.md)
 
 本仓库提供 DiamondSMP 的下界合金合成限制，包含按 Minecraft 版本区分的数据包、适用于不同加载器的模组，以及兼容 Bukkit 的服务器插件。
 
