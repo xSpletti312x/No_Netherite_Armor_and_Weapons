@@ -26,5 +26,8 @@ This datapack modifies/overrides the smithing table recipes (`netherite_axe_smit
             └── netherite_sword_smithing.json
 ```
 
+## Note
+The jar file is a Plugin for the Mod Loaders Paper, Bukkit, Spigot and Folia for the Versions 16-26.3. The Mod versions are only available on Modrinth.
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
