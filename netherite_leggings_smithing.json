@@ -1,5 +1,8 @@
 {
-  "type": "minecraft:smithing",
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:air"
+  },
   "base": {
     "item": "minecraft:air"
   },
