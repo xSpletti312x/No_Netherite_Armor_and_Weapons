@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 71,
-    "description": "Deaktiviert das Netherite-Schwert für 26.1.2"
+    "pack_format": 80,
+    "description": "Deactivates the ability to craft netherite armor and weapons."
   }
 }
