@@ -1,6 +1,6 @@
 # No Netherite Armor and Weapons
 
-[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [日本語](README.ja.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md) | [日本語](README.ja.md) | [简体中文](README.zh-CN.md)
 
 このリポジトリでは、DiamondSMP のネザライト装備のクラフト制限を、Minecraft のバージョン別データパック、各種ローダー用 Mod、Bukkit 互換サーバープラグインとして提供しています。
 
@@ -20,7 +20,11 @@ Minecraft 1.16 から 26.3 までのデータパックがあります。各フ�
 
 ## サーバープラグイン
 
-プラグインのソースコードは [Plugin](Plugin) にあります。Bukkit API を対象とし、Folia 対応を宣言しています。Bukkit、Spigot、Paper、Folia サーバー向けに同じビルドを使用する想定です。Spigot API 1.16.5 を使って Java 8 バイトコードとしてコンパイルされていますが、1.16 から 26.3 までのすべてのサーバーバージョンでの互換性は、完全なバージョン別テストではまだ確認されていません。
+プラグインのソースコードは [Plugin](Plugin) にあります。Bukkit API を対象とし、Folia 対応を宣言しています。Bukkit、Spigot、Paper、Folia サーバー向けに同じビルドを使用する想定です。Spigot API 1.16.5 を使って Java 8 バイトコードとしてコンパイルされています。
+
+## テスト状況
+
+各バージョンの Mod はテストされていません。プラグインは Folia 26.3 でのみテスト済みです。それ以外のサーバーソフトウェアや Minecraft バージョンとの互換性は確認されていません。
 
 ### ビルド
 

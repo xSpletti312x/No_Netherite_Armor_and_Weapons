@@ -1,6 +1,6 @@
 # No Netherite Armor and Weapons
 
-[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [日本語](README.ja.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md) | [日本語](README.ja.md) | [简体中文](README.zh-CN.md)
 
 This repository provides the DiamondSMP netherite crafting restriction as version-specific datapacks, loader mods, and a Bukkit-compatible server plugin.
 
@@ -20,7 +20,11 @@ Version-specific mod JARs are in [`Mods`](Mods). Each `Mod-<version>` folder con
 
 ## Server plugin
 
-The plugin source is in [`Plugin`](Plugin). It targets the Bukkit API and declares Folia support, so one build is intended for Bukkit, Spigot, Paper, and Folia servers. It is compiled against Spigot API 1.16.5 with Java 8 bytecode; compatibility across every server release from 1.16 through 26.3 has not yet been verified on a full version matrix.
+The plugin source is in [`Plugin`](Plugin). It targets the Bukkit API and declares Folia support, so one build is intended for Bukkit, Spigot, Paper, and Folia servers. It is compiled against Spigot API 1.16.5 with Java 8 bytecode.
+
+## Testing status
+
+The mod versions have not been tested. The plugin has only been tested on Folia 26.3; compatibility with other server software or Minecraft versions has not been verified.
 
 ### Build
 

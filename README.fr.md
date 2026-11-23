@@ -1,6 +1,6 @@
 # No Netherite Armor and Weapons
 
-[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [日本語](README.ja.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md) | [日本語](README.ja.md) | [简体中文](README.zh-CN.md)
 
 Ce dépôt propose la restriction de fabrication de Netherite de DiamondSMP sous forme de datapacks adaptés à chaque version, de mods pour différents loaders et d’un plugin serveur compatible avec Bukkit.
 
@@ -20,7 +20,11 @@ Les fichiers JAR des mods spécifiques à chaque version se trouvent dans [Mods]
 
 ## Plugin serveur
 
-Le code source du plugin se trouve dans [Plugin](Plugin). Il cible l’API Bukkit et déclare la prise en charge de Folia. Un même build est prévu pour les serveurs Bukkit, Spigot, Paper et Folia. Il est compilé avec l’API Spigot 1.16.5 et produit du bytecode Java 8 ; sa compatibilité avec toutes les versions de serveur de 1.16 à 26.3 n’a pas encore été vérifiée sur une matrice complète.
+Le code source du plugin se trouve dans [Plugin](Plugin). Il cible l’API Bukkit et déclare la prise en charge de Folia. Un même build est prévu pour les serveurs Bukkit, Spigot, Paper et Folia. Il est compilé avec l’API Spigot 1.16.5 et produit du bytecode Java 8.
+
+## État des tests
+
+Les versions des mods n’ont pas été testées. Le plugin a uniquement été testé sur Folia 26.3 ; sa compatibilité avec les autres logiciels serveur ou versions de Minecraft n’a pas été vérifiée.
 
 ### Compilation
 

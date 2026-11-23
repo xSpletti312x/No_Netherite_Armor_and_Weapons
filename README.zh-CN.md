@@ -1,6 +1,6 @@
 # No Netherite Armor and Weapons
 
-[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [日本語](README.ja.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Français](README.fr.md) | [日本語](README.ja.md) | [简体中文](README.zh-CN.md)
 
 本仓库提供 DiamondSMP 的下界合金合成限制，包含按 Minecraft 版本区分的数据包、适用于不同加载器的模组，以及兼容 Bukkit 的服务器插件。
 
@@ -20,7 +20,11 @@
 
 ## 服务器插件
 
-插件源代码位于 [Plugin](Plugin)。插件面向 Bukkit API，并声明支持 Folia；同一个构建版本旨在用于 Bukkit、Spigot、Paper 和 Folia 服务器。它使用 Spigot API 1.16.5 编译为 Java 8 字节码；目前尚未通过完整的版本矩阵验证其对 1.16 至 26.3 所有服务器版本的兼容性。
+插件源代码位于 [Plugin](Plugin)。插件面向 Bukkit API，并声明支持 Folia；同一个构建版本旨在用于 Bukkit、Spigot、Paper 和 Folia 服务器。它使用 Spigot API 1.16.5 编译为 Java 8 字节码。
+
+## 测试状态
+
+这些模组版本尚未经过测试。插件仅在 Folia 26.3 上测试过；尚未验证它与其他服务器软件或 Minecraft 版本的兼容性。
 
 ### 构建
 
