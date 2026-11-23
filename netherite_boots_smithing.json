@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:smithing_transform",
-  "conditions": [
-    {
-      "type": "minecraft:false"
-    }
-  ]
-}

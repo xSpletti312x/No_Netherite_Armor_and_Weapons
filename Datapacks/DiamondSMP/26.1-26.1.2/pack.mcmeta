@@ -1,7 +1,7 @@
 {
-  "pack": {
-    "min_format": 101.1,
-    "max_format": 101.1,
-    "description": "Deaktiviert das Netherite-Schwert für 26.1.2"
-  }
+    "pack":  {
+                 "min_format":  101.1,
+                 "max_format":  101.1,
+                 "description":  "Disables Netherite armor, axe, sword, and spear smithing recipes. Netherite pickaxe, shovel, and hoe recipes remain available."
+             }
 }

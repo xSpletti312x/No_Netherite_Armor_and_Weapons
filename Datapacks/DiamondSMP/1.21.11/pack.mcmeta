@@ -1,7 +1,7 @@
 {
-  "pack": {
-    "min_format": 94.1,
-    "max_format": 94.1,
-    "description": "Deactivates the ability to craft netherite armor and weapons."
-  }
+    "pack":  {
+                 "min_format":  94.1,
+                 "max_format":  94.1,
+                 "description":  "Disables Netherite armor, axe, sword, and spear smithing recipes. Netherite pickaxe, shovel, and hoe recipes remain available."
+             }
 }
