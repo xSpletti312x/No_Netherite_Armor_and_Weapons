@@ -24,7 +24,7 @@ The plugin source is in [`Plugin`](Plugin). It targets the Bukkit API and declar
 
 ## Testing status
 
-All datapack versions in this repository have been tested. The plugin has been tested on Bukkit, Spigot, Paper, and Folia 26.3. The Fabric mod has been tested with Minecraft 1.20.5 and 1.21. Other mod versions and loader combinations have not been tested.
+All datapack versions in this repository have been tested. The plugin has been tested on Bukkit, Spigot, Paper, and Folia 26.3. The Fabric mod has been tested on Minecraft 1.16.5 (Java 17), 1.17.1, 1.18.2, 1.19.4, 1.20.1, 1.20.5, 1.21, 1.21.11, 26.1, and 26.3. Fabric API is required. These test results cover Fabric; other mod loaders have not been tested.
 
 ### Build
 

@@ -24,7 +24,7 @@ Il codice sorgente del plugin si trova in [Plugin](Plugin). È basato sulla Bukk
 
 ## Stato dei test
 
-Sono state testate tutte le versioni dei datapack presenti in questo repository. Il plugin è stato testato su Bukkit, Spigot, Paper e Folia 26.3. La mod per Fabric è stata testata con Minecraft 1.20.5 e 1.21. Le altre versioni delle mod e combinazioni di loader non sono state testate.
+Sono state testate tutte le versioni dei datapack presenti in questo repository. Il plugin è stato testato su Bukkit, Spigot, Paper e Folia 26.3. La mod per Fabric è stata testata con Minecraft 1.16.5 (Java 17), 1.17.1, 1.18.2, 1.19.4, 1.20.1, 1.20.5, 1.21, 1.21.11, 26.1 e 26.3. È necessaria Fabric API. Questi test riguardano Fabric; gli altri loader non sono stati testati.
 
 ### Compilazione
 
