@@ -16,7 +16,7 @@ Há datapacks para Minecraft da versão 1.16 até a 26.3. Cada pasta inclui seu 
 
 ## Mods
 
-Os JARs dos mods por versão estão em [Mods](Mods). Cada pasta de versão contém um JAR para aquela faixa e o conteúdo extraído dele. Escolha a pasta correspondente à sua versão do Minecraft e instale o JAR na pasta mods do loader apropriado. Os JARs empacotam datapacks como mods; consulte os metadados de cada JAR para ver os loaders e as versões de jogo declarados.
+Os JARs dos mods por versão estão em [Mods](Mods). Cada pasta de versão contém um JAR para aquela faixa e o conteúdo extraído dele. Escolha a pasta correspondente à sua versão do Minecraft e instale o JAR na pasta mods do loader apropriado. O mod para Fabric requer Fabric API. Os JARs empacotam datapacks como mods; consulte os metadados de cada JAR para ver os loaders e as versões de jogo declarados.
 
 ## Plugin de servidor
 
@@ -24,7 +24,7 @@ O código-fonte do plugin está em [Plugin](Plugin). Ele é voltado à API Bukki
 
 ## Status dos testes
 
-Todas as versões dos datapacks incluídas neste repositório foram testadas. O plugin foi testado no Bukkit, Spigot, Paper e Folia 26.3. As versões dos mods não foram testadas.
+Todas as versões dos datapacks incluídas neste repositório foram testadas. O plugin foi testado no Bukkit, Spigot, Paper e Folia 26.3. O mod para Fabric foi testado com Minecraft 1.20.5 e 1.21. As demais versões de mods e combinações de loaders não foram testadas.
 
 ### Compilação
 

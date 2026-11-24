@@ -16,7 +16,7 @@ Die verfügbaren Versionen reichen von Minecraft 1.16 bis 26.3. Jeder Ordner ent
 
 ## Mods
 
-Die versionsspezifischen Mod-JARs liegen in [Mods](Mods). Jeder Versionsordner enthält eine Mod-JAR für den jeweiligen Versionsbereich sowie deren entpackte Inhalte. Installiere die JAR aus dem Ordner, dessen Versionsbereich zu deiner Minecraft-Version passt, im mods-Ordner des passenden Mod-Loaders. Die JARs verpacken Datapacks als Mods; unterstützte Loader und Spielversionen stehen in den Metadaten der jeweiligen JAR.
+Die versionsspezifischen Mod-JARs liegen in [Mods](Mods). Jeder Versionsordner enthält eine Mod-JAR für den jeweiligen Versionsbereich sowie deren entpackte Inhalte. Installiere die JAR aus dem Ordner, dessen Versionsbereich zu deiner Minecraft-Version passt, im mods-Ordner des passenden Mod-Loaders. Die Fabric-Mod benötigt die Fabric API. Die JARs verpacken Datapacks als Mods; unterstützte Loader und Spielversionen stehen in den Metadaten der jeweiligen JAR.
 
 ## Server-Plugin
 
@@ -24,7 +24,7 @@ Der Plugin-Quellcode liegt in [Plugin](Plugin). Das Plugin basiert auf der Bukki
 
 ## Teststatus
 
-Alle Datapack-Versionen in diesem Repository wurden getestet. Das Plugin wurde auf Bukkit, Spigot, Paper und Folia 26.3 getestet. Die Mod-Versionen wurden nicht getestet.
+Alle Datapack-Versionen in diesem Repository wurden getestet. Das Plugin wurde auf Bukkit, Spigot, Paper und Folia 26.3 getestet. Die Fabric-Mod wurde mit Minecraft 1.20.5 und 1.21 getestet. Andere Mod-Versionen und Loader-Kombinationen wurden nicht getestet.
 
 ### Bauen
 
