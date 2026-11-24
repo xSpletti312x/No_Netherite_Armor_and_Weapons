@@ -24,7 +24,7 @@ Le code source du plugin se trouve dans [Plugin](Plugin). Il cible l’API Bukki
 
 ## État des tests
 
-Les versions des mods n’ont pas été testées. Le plugin a uniquement été testé sur Folia 26.3 ; sa compatibilité avec les autres logiciels serveur ou versions de Minecraft n’a pas été vérifiée.
+Toutes les versions de datapacks de ce dépôt ont été testées. Le plugin a été testé sur Bukkit, Spigot, Paper et Folia 26.3. Les versions des mods n’ont pas été testées.
 
 ### Compilation
 

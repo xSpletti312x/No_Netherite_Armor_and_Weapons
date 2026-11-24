@@ -24,7 +24,7 @@ The plugin source is in [`Plugin`](Plugin). It targets the Bukkit API and declar
 
 ## Testing status
 
-The mod versions have not been tested. The plugin has only been tested on Folia 26.3; compatibility with other server software or Minecraft versions has not been verified.
+All datapack versions in this repository have been tested. The plugin has been tested on Bukkit, Spigot, Paper, and Folia 26.3. The mod versions have not been tested.
 
 ### Build
 

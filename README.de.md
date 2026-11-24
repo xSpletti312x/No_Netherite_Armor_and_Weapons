@@ -24,7 +24,7 @@ Der Plugin-Quellcode liegt in [Plugin](Plugin). Das Plugin basiert auf der Bukki
 
 ## Teststatus
 
-Die Mod-Versionen wurden nicht getestet. Das Plugin wurde ausschließlich auf Folia 26.3 getestet; die Kompatibilität mit anderer Serversoftware oder anderen Minecraft-Versionen wurde nicht bestätigt.
+Alle Datapack-Versionen in diesem Repository wurden getestet. Das Plugin wurde auf Bukkit, Spigot, Paper und Folia 26.3 getestet. Die Mod-Versionen wurden nicht getestet.
 
 ### Bauen
 

@@ -24,7 +24,7 @@ Kod źródłowy pluginu znajduje się w [Plugin](Plugin). Plugin korzysta z Bukk
 
 ## Status testów
 
-Wersje modów nie były testowane. Plugin był testowany wyłącznie na Folia 26.3; zgodność z innym oprogramowaniem serwerowym lub innymi wersjami Minecrafta nie została potwierdzona.
+Wszystkie wersje datapacków znajdujące się w tym repozytorium zostały przetestowane. Plugin był testowany na Bukkit, Spigot, Paper i Folia 26.3. Wersje modów nie były testowane.
 
 ### Budowanie
 

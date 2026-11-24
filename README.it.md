@@ -24,7 +24,7 @@ Il codice sorgente del plugin si trova in [Plugin](Plugin). È basato sulla Bukk
 
 ## Stato dei test
 
-Le versioni delle mod non sono state testate. Il plugin è stato testato solo su Folia 26.3; la compatibilità con altri software server o versioni di Minecraft non è stata verificata.
+Sono state testate tutte le versioni dei datapack presenti in questo repository. Il plugin è stato testato su Bukkit, Spigot, Paper e Folia 26.3. Le versioni delle mod non sono state testate.
 
 ### Compilazione
 

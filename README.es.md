@@ -24,7 +24,7 @@ El código fuente del plugin está en [Plugin](Plugin). Está dirigido a la API 
 
 ## Estado de las pruebas
 
-Las versiones de los mods no se han probado. El plugin solo se ha probado en Folia 26.3; no se ha verificado su compatibilidad con otros programas de servidor ni con otras versiones de Minecraft.
+Se han probado todas las versiones de datapacks incluidas en este repositorio. El plugin se ha probado en Bukkit, Spigot, Paper y Folia 26.3. Las versiones de los mods no se han probado.
 
 ### Compilación
 
