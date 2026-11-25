@@ -8,7 +8,7 @@ This repository contains version-specific implementations of the DiamondSMP Neth
 
 The datapacks, mods, and plugin disable crafting recipes for Netherite armor, axes, swords, and Netherite spears in versions that include them. Netherite pickaxes, shovels, and hoes remain craftable.
 
-This project changes recipes only. It does not remove Netherite items already held by players or stored in the world.
+This project changes recipes only. It does not remove Netherite items already held by players or stored in the world, and it does not affect items added by other mods.
 
 Use only one implementation (datapack, mod, or plugin) for a given world/server to avoid overlapping recipe changes.
 
