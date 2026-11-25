@@ -6,7 +6,7 @@ Questo repository offre la restrizione alla creazione di oggetti in netherite di
 
 ## Ricette disabilitate
 
-I datapack e il plugin disabilitano le ricette di forgiatura per l’armatura in netherite, le asce, le spade e, nelle versioni in cui è presente, la lancia in netherite. Picconi, pale e zappe in netherite restano fabbricabili.
+I datapack e il plugin disabilitano le ricette di forgiatura per l’armatura in netherite, le asce, le spade e, nelle versioni in cui è presente, la lancia in netherite. Picconi, pale e zappe in netherite restano fabbricabili. Gli oggetti in netherite già presenti negli inventari o nel mondo, così come gli oggetti aggiunti dalle mod, non vengono modificati.
 
 ## Datapack
 
