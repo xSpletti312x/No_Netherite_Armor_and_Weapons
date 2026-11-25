@@ -6,7 +6,7 @@ Este repositorio ofrece la restricción de fabricación de netherita de DiamondS
 
 ## Qué se desactiva
 
-Los datapacks y el plugin desactivan las recetas de herrería de la armadura de netherita, las hachas, las espadas y, en las versiones que la incluyen, la lanza de netherita. Los picos, las palas y las azadas de netherita siguen pudiéndose fabricar.
+Los datapacks y el plugin desactivan las recetas de herrería de la armadura de netherita, las hachas, las espadas y, en las versiones que la incluyen, la lanza de netherita. Los picos, las palas y las azadas de netherita siguen pudiéndose fabricar. Los objetos de netherita que ya están en los inventarios o en el mundo, así como los objetos añadidos por mods, no se ven afectados.
 
 ## Datapacks
 
