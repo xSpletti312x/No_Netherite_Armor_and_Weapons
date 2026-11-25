@@ -8,7 +8,7 @@ Dieses Repository enthält versionsspezifische Umsetzungen der Netherite-Craftin
 
 Die Datapacks, Mods und das Plugin deaktivieren die Crafting-Rezepte für Netherite-Rüstung, Äxte, Schwerter sowie Netherite-Speere in Versionen, in denen es sie gibt. Netherite-Spitzhacken, -Schaufeln und -Hacken bleiben herstellbar.
 
-Das Projekt ändert nur Rezepte. Netherite-Gegenstände, die Spieler bereits besitzen oder die in der Welt liegen, werden nicht entfernt.
+Das Projekt ändert nur Rezepte. Netherite-Gegenstände, die Spieler bereits besitzen oder die in der Welt liegen, werden nicht entfernt. Auch von Mods hinzugefügte Items sind nicht betroffen.
 
 Verwende pro Welt/Server nur eine Umsetzung (Datapack, Mod oder Plugin), damit sich Rezeptänderungen nicht überschneiden.
 
