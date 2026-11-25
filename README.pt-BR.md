@@ -6,7 +6,7 @@ Este repositório oferece a restrição de criação de itens de netherita do Di
 
 ## O que é desativado
 
-Os datapacks e o plugin desativam as receitas de ferraria da armadura de netherita, dos machados, das espadas e, nas versões em que existe, da lança de netherita. Picaretas, pás e enxadas de netherita continuam podendo ser fabricadas.
+Os datapacks e o plugin desativam as receitas de ferraria da armadura de netherita, dos machados, das espadas e, nas versões em que existe, da lança de netherita. Picaretas, pás e enxadas de netherita continuam podendo ser fabricadas. Itens de netherita que já estão nos inventários ou no mundo, assim como itens adicionados por mods, não são afetados.
 
 ## Datapacks
 
