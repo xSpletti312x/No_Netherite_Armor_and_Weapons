@@ -6,7 +6,7 @@ Ce dépôt propose la restriction de fabrication de Netherite de DiamondSMP sous
 
 ## Éléments désactivés
 
-Les datapacks et le plugin désactivent les recettes de forge de l’armure en Netherite, des haches, des épées et, dans les versions où il existe, de la lance en Netherite. Les pioches, pelles et houes en Netherite restent fabricables.
+Les datapacks et le plugin désactivent les recettes de forge de l’armure en Netherite, des haches, des épées et, dans les versions où il existe, de la lance en Netherite. Les pioches, pelles et houes en Netherite restent fabricables. Les objets en Netherite déjà présents dans les inventaires ou dans le monde, ainsi que les objets ajoutés par des mods, ne sont pas affectés.
 
 ## Datapacks
 
