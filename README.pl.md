@@ -6,7 +6,7 @@ To repo udostępnia ograniczenie wytwarzania przedmiotów z netherytu z DiamondS
 
 ## Wyłączone receptury
 
-Datapacki i plugin wyłączają receptury kowalskie dla netherytowej zbroi, toporów, mieczy oraz — w wersjach, w których występuje — netherytowej włóczni. Netherytowe kilofy, łopaty i motyki nadal można wytwarzać.
+Datapacki i plugin wyłączają receptury kowalskie dla netherytowej zbroi, toporów, mieczy oraz — w wersjach, w których występuje — netherytowej włóczni. Netherytowe kilofy, łopaty i motyki nadal można wytwarzać. Istniejące przedmioty z netherytu, zarówno w ekwipunkach, jak i w świecie, oraz przedmioty dodane przez mody nie są objęte zmianami.
 
 ## Datapacki
 
